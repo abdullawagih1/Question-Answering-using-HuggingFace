@@ -28,5 +28,4 @@ To run this Streamlit app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd streamlit-question-answering
+   git clone https://github.com/abdullawagih1/Question-Answering-using-HuggingFace.git
